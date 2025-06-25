@@ -16,3 +16,5 @@ Layout estruturado com objetos visuais organizados de forma coerente e responsiv
 Gráficos dinâmicos (visuais) desenvolvidos com base em campos estratégicos da base de dados.
 Botões funcionais que viabilizam a navegabilidade entre abas ou visuais.
 Segmentadores visuais que enriquecem a análise e promovem interatividade com o usuário.
+
+Em anexo, arquivo do Power BI e comprovante de publicação no Power BI Service.
