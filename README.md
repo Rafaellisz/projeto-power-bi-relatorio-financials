@@ -1,4 +1,5 @@
 Projeto Power BI: Análise Financeira com Sample Financials
+
 Descrição do Desafio:
 Este projeto tem como objetivo a criação de um relatório interativo e visualmente atrativo utilizando a base de dados Sample Financials. 
 A proposta busca evidenciar a capacidade de análise, organização visual e uso de elementos interativos no Power BI.
